@@ -38,7 +38,7 @@ Picking a place to put your tent is important. There are a few factors to consid
 
 To build this Martha, I used parts from Amazon, Home Depot, and the House of Hydro. Note, some things like fans can be substituted with similar parts. It doesn't have to be exact.
 
-### 1. Greenhouse
+### Greenhouse
 
 My core tent consists of the Martha tent itself, a plastic base, and a shallow perlite tray. The plastic base is for catching any condensation or dripping water, and the smaller perlite tray is for humidity control.
 
