@@ -1,4 +1,4 @@
-# How To: Martha Grow Tent for Fruiting Mushrooms
+# How To: Build a Martha Grow Tent for Fruiting Mushrooms
 By: Shane Weaver
 
 I've been getting into mushroom cultivation lately, starting as a hobby but with potential to start a business. I like the idea of being a mushroom cultivator, but like most people I don't have any formal education on the topic. I don't even remembering them being a topic in gradeschool. So to get a feel for it, I decided to try my hand at growing something.
