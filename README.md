@@ -133,3 +133,21 @@ Use ventilation ducting to connect the output port of the tent to the inline fan
 ### Control station
 
 This setup involves quite a few wires and devices to keep track of. To organize the madness, and get the devices off the ground, I zip-tied it all to a plastic crate. The devices are attached atop, while the cords are fed through the holes and bound neatly within. Get creative, find what works for you and your space.
+
+## Configuration
+
+
+
+## Operation
+
+
+
+## Maintenance
+
+
+
+## Cleaning
+
+
+
+## What's next?
