@@ -9,6 +9,14 @@ Turns out there is more than one way to fruit a mushroom. I've seen amazing vari
 
 Thus, after many hours of YouTube and scrolling through forums, I identified a few trends: There seems to be a lot of love out there for the Martha style tent from small growers. I also noticed strong support for House of Hydro humidity systems from commercial growers. So that is what I built. Let's dive in!
 
+#### Note:
+This is not a cheap build. It's gonna cost ~$300 depending on where you source your parts. The bulk of the cost coming from the humidifer components. This build is designed for use with a few assumptions:
+
+- The ambient humidity is lower then 70%
+- The ambient temperature is stable >60F degrees
+
+This is an indoor grow build. If your location requires controlled heating/cooling or de-humidification, this may not be the build for you.
+
 ## Placement
 
 Picking a place to put your tent is important. There are a few factors to consider:
