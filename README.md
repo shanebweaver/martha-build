@@ -73,7 +73,7 @@ Mushrooms recognize a day/night cycle to indicate fruiting conditions. This can 
 
 Via whatever hardware, hang the T5 light outside and above the tent using the adjustable ropes. 
 
-Plug the light into the timed power strip on the `timed` side, and adjust the power strip to toggle on/off every 12 hours. This will create the day/night cycle.
+Plug the light into the timed power strip on the `timed` side.
 
 ### Humidifier
 
@@ -109,8 +109,6 @@ Attach the humidistat components together:
 
 Once everything is connected up, place the humidifier unit next to the tent and connect the PVC pipe to the mist output flange. Then run ducting from the PVC opening to the upper tent ventilation port.
 
-Finally, configure the humidistat to turn on at 70% and off at 85% to create the regulated climate for your mushrooms.
-
 ### Heating
 
 For heating, I have a simple seedling heating mat and thermostat controller.
@@ -119,8 +117,6 @@ For heating, I have a simple seedling heating mat and thermostat controller.
 - Heating mat: [VIVOSUN Durable Waterproof Seedling Heat Mat Warm Hydroponic Heating Pad 10" x 20.75" MET Standard](https://www.amazon.com/gp/product/B00P7U259C)
 
 Place the heating mat under the perlite tray at the bottom of the tent. Run the cable out of the tent and to the thermostat controller, then to the power strip on the `switched` side.
-
-Configure the thermostat controller to turn on/off as you see fit. For the space my tent is in, I found it fair to have it maintain ~65F degrees.
 
 ### Exhaust
 
@@ -136,18 +132,43 @@ This setup involves quite a few wires and devices to keep track of. To organize 
 
 ## Configuration
 
+Adjust the power strip to toggle on/off every 12 hours. This will create the day/night cycle.
 
+Configure the humidistat to turn on at 70% and off at 85% to create the regulated climate for your mushrooms.
+
+Configure the thermostat controller to turn on/off somewhere between 60-70F degrees. For the space my tent is in, I found it fair to have it maintain ~65F degrees. If I had a more powerful heater, I might dial it in more, but I'm really relying on the ambient temperature to be relatively stable. Again, this is *not* an outdoor build.
+
+Fill the humidifier tote with a few inches of water; At least enough for the ultrasonic humidier ring to float.
 
 ## Operation
 
+Operations is pretty simple for this unit. Simply ensure that the humidifer doesn't run dry, and that is about it. The system will continuously regulate the humidity/temperature/FAE balance, and all you have to do is wait!
 
+## Maintenance + Cleaning
 
-## Maintenance
+### Grow chamber
+As with all setups, there needs to be some level of cleanup every few weeks. Simply wipe down the tent components with 70% isopropyl alchohol, and difficult areas can be hit with a Lysol spray:
 
+- Tent plastic
+- Tent frame + racks
+- Base tray
+- Perlite tray
+- Intake/output flanges
 
+### Humidifier
+The humidifer components also need regular cleaning to prevent mold growth from the extra moisture. Simply wope down with 70% isopropyl alchohol, and difficult areas can be hit with a Lysol spray:
 
-## Cleaning
+- Plastic tote + lid
+- Mist output (PVC + tubing)
+- Air intake fan
 
+#### Ultrasonic humidifier head
+The ultrasonic disks should be replaced every few weeks, to remove any mineral or other buildup an dkeep performance high. Always make sure to unplug the unit first and allow time to cool; the unit may be warm to the touch, and touching the discs when they are working can give quite a zap. 
 
+Start by giving the ultrasonic head a soak in vinegar for a few hours (or overnight) to loosen up any deposits. Then allow the unit to dry. ANY moisture under the ceramic disks can shorten the lifespan and reduce mist output. Wipe it out with a paper towel to speed up the drying process.
+
+Using a disk key (provided with each pack of disks) unscrew the disk retaining rings and then remove the disks. Then insert new disks, screw the retaining rings back on, and plop it back in the humidifier tote. 
 
 ## What's next?
+
+- Adding pictures
