@@ -1,5 +1,6 @@
 # How To: Build a Martha Grow Tent for Fruiting Mushrooms
-*By: Shane Weaver*
+
+<img src="images/tent_1.jpg?raw=true" />
 
 I've been getting into mushroom cultivation lately, starting as a hobby but with potential to start a business. I like the idea of being a mushroom cultivator, but like most people I don't have any formal education on the topic. I don't even remember them being a topic in gradeschool. So to get a feel for it, I decided to try my hand at growing something.
 
@@ -48,12 +49,18 @@ To build this Martha, I used parts from Amazon, Home Depot, and the House of Hyd
 
 ### Greenhouse
 
+
 My core tent consists of the Martha tent itself, a plastic base, and a shallow perlite tray. The plastic base is for catching any condensation or dripping water, and the smaller perlite tray is for humidity control.
 
-- Tent: [Gardman R687 4-Tier Mini Greenhouse, 27" Long x 18" Wide x 63" High](https://www.amazon.com/gp/product/B000NCTGQE)
-- Base tray: [MidWest Homes for Pets Dog Crate Replacement Pans, 30-Inch](https://www.amazon.com/gp/product/B0002DHW10)
-- Perlite tray: [MidWest Homes for Pets Dog Crate Replacement Pans, 18-Inch](https://www.amazon.com/gp/product/B007TU7PM0)
-- 2 x Air diffusing ventilation port, 4-inch
+**Tent:** [Gardman R687 4-Tier Mini Greenhouse, 27" Long x 18" Wide x 63" High](https://www.amazon.com/gp/product/B000NCTGQE)   
+<img src="images/mist_3.jpg?raw=true" />
+
+**Base tray:** [MidWest Homes for Pets Dog Crate Replacement Pans, 30-Inch](https://www.amazon.com/gp/product/B0002DHW10)  
+**Perlite tray:** [MidWest Homes for Pets Dog Crate Replacement Pans, 18-Inch](https://www.amazon.com/gp/product/B007TU7PM0)    
+<img src="images/perlite.jpg?raw=true" />
+
+**2 x Air diffusing ventilation port, 4-inch**    
+<img src="images/flange_1.jpg?raw=true" />
 
 Start off by assembling the tent in your desired location. Nest the perlite tray in the base tray, and slip them under the assembled greenhouse tent. 
 
@@ -64,6 +71,9 @@ Attach the diffusing ventilation ports to the two openings. Ensure that the diff
 Fill the smaller tray with damp perlite to help regulate the humidity level.
 
 ### Lighting
+
+<img src="images/light_1.jpg?raw=true" />
+<img src="images/light_2.jpg?raw=true" />
 
 Mushrooms recognize a day/night cycle to indicate fruiting conditions. This can be simulated with a T5 florescent lamp and a timed power strip. We'll need rope to suspend the light as well.
 
@@ -90,12 +100,18 @@ Perhaps the most important and costly aspect of this build is the humidity syste
 - PVC pipe, 4-inch
 - Clear silicone sealant
 
+<img src="images/humidifier_top.jpg?raw=true" />
+<img src="images/humidifier_open.jpg?raw=true" />
+
 Using a rotary tool, knife, or other sharp object, cut 4-inch holeS in two opposing corners; One is for air intake, while the other is for mist output. 
 
 Attach the muffin fan to the top of one of the openings using nuts/bolts, making sure that the air is blowing *into* the resevoir (not out).
 
 Connect the fan components together:    
 **Muffin fan** -> **Fan speed controller** -> **Cable extension splitter**
+
+<img src="images/humidifier_connected.jpg?raw=true" />
+<img src="images/humidifier_disconnected.jpg?raw=true" />
 
 Using clear silicone, affix the PVC flang atop the other opening in the resevoir lid. I used bolts and wingnuts as well for an extra sturdy fixture.
 
@@ -107,9 +123,14 @@ Attach the mist maker components together:
 Attach the humidistat components together:  
 **Cable extension splitter** -> **Humidistat** -> **Power strip, on the `switched` side**
 
+<img src="images/humidifier_working.jpg?raw=true" />
+<img src="images/humidifier_tubing.jpg?raw=true" />
+
 Once everything is connected up, place the humidifier unit next to the tent and connect the PVC pipe to the mist output flange. Then run ducting from the PVC opening to the upper tent ventilation port.
 
 ### Heating
+
+<img src="images/heatmat.jpg?raw=true" />
 
 For heating, I have a simple seedling heating mat and thermostat controller.
 
@@ -120,6 +141,9 @@ Place the heating mat under the perlite tray at the bottom of the tent. Run the 
 
 ### Exhaust
 
+<img src="images/exhaust_fan.jpg?raw=true" />
+<img src="images/exhaust_fixture.jpg?raw=true" />
+
 To promote fresh air exchange (FAE), I added an inline fan to my exhaust tubing. This is used to help dial in the temperature/humidity/FAE balance.
 
 - Inline fan: [4" Inline Fan - 188 CFM Exhaust Duct Fan, Built-in Speed Controller, ETL Listed, Pre-Wired 6 FT Grounded Cord](https://www.amazon.com/gp/product/B06X3VDXVF)
@@ -128,9 +152,13 @@ Use ventilation ducting to connect the output port of the tent to the inline fan
 
 ### Control station
 
+<img src="images/controls.jpg?raw=true" />
+
 This setup involves quite a few wires and devices to keep track of. To organize the madness, and get the devices off the ground, I zip-tied it all to a plastic crate. The devices are attached atop, while the cords are fed through the holes and bound neatly within. Get creative, find what works for you and your space.
 
 ## Configuration
+
+<img src="images/sensors.jpg?raw=true" />
 
 Adjust the power strip to toggle on/off every 12 hours. This will create the day/night cycle.
 
@@ -163,6 +191,7 @@ The humidifer components also need regular cleaning to prevent mold growth from 
 - Air intake fan
 
 #### Ultrasonic humidifier head
+
 The ultrasonic disks should be replaced every few weeks, to remove any mineral or other buildup an dkeep performance high. Always make sure to unplug the unit first and allow time to cool; the unit may be warm to the touch, and touching the discs when they are working can give quite a zap. 
 
 Start by giving the ultrasonic head a soak in vinegar for a few hours (or overnight) to loosen up any deposits. Then allow the unit to dry. ANY moisture under the ceramic disks can shorten the lifespan and reduce mist output. Wipe it out with a paper towel to speed up the drying process.
@@ -171,4 +200,12 @@ Using a disk key (provided with each pack of disks) unscrew the disk retaining r
 
 ## What's next?
 
-- Adding pictures
+- Automate water refill
+- Refactor humidifier output
+- Upgrade heating
+- Insulate window shim
+- Cut off those annoying tent door straps
+
+# Thanks
+Shane Weaver | 
+*shanebweaver@gmail.com*
