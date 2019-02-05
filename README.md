@@ -205,6 +205,10 @@ Using a disk key (provided with each pack of disks) unscrew the disk retaining r
 - Upgrade heating
 - Insulate window shim
 - Cut off those annoying tent door straps
+- Fiddle with configuration
+
+<img src="images/oyster_1.jpg?raw=true" />
+<img src="images/oyster_2.jpg?raw=true" />
 
 # Thanks
 Shane Weaver | 
